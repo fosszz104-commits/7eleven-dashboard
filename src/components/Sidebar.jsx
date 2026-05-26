@@ -4,6 +4,7 @@ export default function Sidebar({ activePage, onNav }) {
     { id: 'sales',    icon: '📊', label: 'ยอดขาย' },
     { id: 'targets',  icon: '🎯', label: 'เป้าหมาย' },
     { id: 'branches', icon: '🏪', label: 'สาขา' },
+{ id: 'mt', icon: '🏬', label: 'Modern Trade' },
   ]
 
   return (
