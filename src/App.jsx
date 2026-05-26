@@ -5,7 +5,7 @@ import PageHome from './components/PageHome.jsx'
 import PageSales from './components/PageSales.jsx'
 import PageTargets from './components/PageTargets.jsx'
 import PageBranches from './components/PageBranches.jsx'
-import PageMT from './components/PageMT.jsx
+import PageMT from './components/PageMT.jsx'
 import UploadModal from './components/UploadModal.jsx'
 import SheetsModal from './components/SheetsModal.jsx'
 
