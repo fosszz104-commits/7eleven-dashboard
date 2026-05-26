@@ -66,8 +66,3 @@ export default function App() {
     </div>
   )
 }
-// บรรทัด import (ต่อจาก import PageBranches)
-import PageMT from './components/PageMT.jsx'
-
-// ใน return — ต่อจาก {page === 'branches' && <PageBranches />}
-{page === 'mt' && <PageMT />}
